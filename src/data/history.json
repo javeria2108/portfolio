@@ -1,0 +1,25 @@
+[
+  {
+    "role": "React and Next Js Intern",
+    "organisation": "Bytewise Ltd",
+    "startDate": "March 2023",
+    "endDate": "June 2023",
+    "experiences": ["Completed 5+ projects", "Appeared in top 10 fellows"]
+  },
+  {
+    "role": "UI Engineer Intern",
+    "organisation": "Ensemble Technologies",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": ["learned coding apps in javascript and yaml syntax", "Learned clear communication and adaptability"]
+  },
+  {
+    "role": "Computer Engineering Student",
+    "organisation": "UET Lahore",
+    "startDate": "Nov, 2021",
+    "endDate": "Jun, 2025",
+    "experiences": [
+      "Relevant courses completed: Databases, OOP, DSA, Assembly Language, Software Engineering"
+    ]
+  }
+]

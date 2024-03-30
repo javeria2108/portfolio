@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Lahore 101",
+    "imageSrc": "projects/lahore101.png",
+    "description": "A tour guide for visitors with descriptions of famous places of Lahore with their ratings and allows users to authenticate and give reviews",
+    "skills": ["React", "Next Js", "TailwindCSS","Firebase"],
+    "demo": "https://lahore-101.vercel.app",
+    "source": "https://github.com/javeria2108/LAHORE_101"
+  },
+  {
+    "title": "Quran World",
+    "imageSrc": "projects/quranworld.png",
+    "description": "This is a project made to allow users to read Quran with translations in multiple languages and listen to different reciters.",
+    "skills": ["React", "Redux", "TailwindCSS"],
+    "demo": "https://quran-quill.vercel.app",
+    "source": "https://github.com/javeria2108/Quran-app-with-React-and-Redux"
+  },
+  {
+    "title": "Promptopia",
+    "imageSrc": "projects/promptopia.png",
+    "description": "This is a project made to generate AI prompts and allow user sign in",
+    "skills": ["NextJS", "Express","MongoDB"],
+    "demo": "https://promptopia-blush-five.vercel.app",
+    "source": " https://github.com/javeria2108/Promptopia"
+   
+  },
+  {
+    "title": "React Invoice Generator",
+    "imageSrc": "projects/reactinvoice.png",
+    "description": "This is a project made to generate and print Invoices",
+    "skills": ["React", "TailwindCSS"],
+    "demo": "https://react-invoice-generator-seven.vercel.app",
+    "source": "https://github.com/javeria2108/React-Invoice-Generator"
+  }
+]
